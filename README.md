@@ -38,4 +38,4 @@
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Donghyun0221.com=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donghyun0221&show_icons=true&theme=radical)
